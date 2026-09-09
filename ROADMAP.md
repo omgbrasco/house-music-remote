@@ -5,7 +5,7 @@
 - [x] Record the owner's authorization, non-negotiable AutoMix requirement, and future app ambition.
 - [x] Create local project documents and private Drive folder.
 - [x] Commit local project and verify cloud snapshot presence and private permissions through Drive metadata.
-- [ ] Publish public GitHub repository and verify the initial files remotely.
+- [x] Publish public GitHub repository and verify the initial files remotely.
 
 ## M1 — Prove playback and control
 
