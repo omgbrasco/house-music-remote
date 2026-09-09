@@ -19,3 +19,5 @@ Confirm exact speaker models and candidate house Mac, then validate AutoMix and 
 - 2026-09-09: Owner green-lit the project, GitHub and Drive persistence, and possible future official app. Created scope and milestone acceptance criteria; recorded authentication blocker without changing account permissions.
 - 2026-09-09: Initialized local Git history and uploaded kickoff archive; verified archive and folder metadata. GitHub publication remains pending sign-in.
 - 2026-09-09: Owner signed in and explicitly requested public development. Created repository and changed visibility to public. Prepared public documents without private storage links or household inventory.
+
+- 2026-09-09: Published all four initial files and verified a clean clone of public history. Repository setup is complete; app development remains in feasibility stage.
