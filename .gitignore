@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.build/
+build/
+credentials/
+secrets/
