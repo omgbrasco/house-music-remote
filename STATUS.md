@@ -1,14 +1,14 @@
 # Project status
 
-Updated: 2026-09-09. Scope: project setup only.
+Updated: 2026-09-10. Scope: project setup and synchronization.
 
-Project active; feasibility and hardware testing remain open. No background worker or continuous backup is configured.
+Project active; feasibility and hardware testing remain open. No functioning music-control app has been built. See the private Drive handoff for the current synchronization record and scheduled-check status.
 
 ## Storage
 
 Public development repository: https://github.com/omgbrasco/house-music-remote
 
-Private project backups are maintained separately. Initial snapshot presence and private permissions were verified; continuous synchronization and restore testing remain future work.
+The private Google Drive AIOS project folder is the source of truth; GitHub is the public development mirror. Agents must reconcile and verify all three locations at each handoff. Periodic checks do not guarantee instantaneous synchronization or access for unconnected agents.
 
 ## Next product action
 
@@ -21,3 +21,4 @@ Confirm exact speaker models and candidate house Mac, then validate AutoMix and 
 - 2026-09-09: Owner signed in and explicitly requested public development. Created repository and changed visibility to public. Prepared public documents without private storage links or household inventory.
 
 - 2026-09-09: Published all four initial files and verified a clean clone of public history. Repository setup is complete; app development remains in feasibility stage.
+- 2026-09-10: Owner designated AIOS Drive as source of truth and requested an agent-readable current mirror. Added the synchronization contract and recorded the PWA/native Watch architecture proposal.

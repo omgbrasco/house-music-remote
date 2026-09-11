@@ -41,6 +41,8 @@ These establish design constraints, not a tested end-to-end system. Recheck curr
 
 GitHub: https://github.com/omgbrasco/house-music-remote
 
-Git tracks source and project decisions. Private operational notes and backup links are maintained separately. No continuous synchronization or background development is implied.
+The private Google Drive AIOS project folder is the source of truth. GitHub is the public development mirror and the local checkout is a working copy. See AGENTS.md for the required start-of-session and handoff synchronization process. Private access details are stored only in Drive.
+
+The proposed phone control panel is a Home Screen PWA, with a native Watch app for Digital Crown volume and playback controls. Both communicate with the house-player service; closing the phone panel must not stop music. This design is not yet implemented or tested on devices.
 
 See ROADMAP.md for acceptance criteria and STATUS.md for setup state.
